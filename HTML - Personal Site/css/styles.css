@@ -1,0 +1,21 @@
+body {
+  background-color: #DADDFC;
+}
+hr {
+  border-style: none;
+  border-top: 5px dotted #2E4C6D;
+  width: 10%;
+}
+h1 {
+  color: #FC997C;
+}
+h3 {
+  color: #FC997C;
+  font-family: garamond, sans-serif;
+  font-weight: lighter;
+}
+h2 {
+  color: #FC997C;
+  font-family: cursive, garamond, sans-serif;
+  font-weight: lighter;
+}
