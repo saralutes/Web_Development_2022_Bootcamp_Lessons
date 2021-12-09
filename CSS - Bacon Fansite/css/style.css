@@ -1,0 +1,30 @@
+/* Tag Selectors */
+h1 {
+  color: red;
+  font-size: 100px;
+
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/* Class Selectors */
+
+.bacon {
+  background-color: purple;
+}
+
+.broccoli {
+  background-color: red;
+}
+
+.circular {
+  border-radius: 100%;
+}
+/* ID Selectors (can only use once -for one element-)*/
+
+#heading {
+  background-color: grey;
+
+}
