@@ -1,0 +1,20 @@
+/*Element Selectors*/
+
+h1 {
+  font-family: 'montserrat';
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #2A0944;
+}
+
+/*Class Selectors*/
+
+.container-fluid {
+  padding: 3% 15%;
+}
+/*ID Selectors*/
+
+#title {
+  background-color: #A12568;
+}
