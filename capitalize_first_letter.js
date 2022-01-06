@@ -2,8 +2,8 @@
 var name = prompt("What is your name?");
 
 // 2 Capitalize the first letter of the name
-var FirstChar = name.slice(0,1);
-var RestOfName = name.slice(1,name.length);
+var firstChar = name.slice(0,1);
+var restOfName = name.slice(1,name.length);
 
 // Use capitalized version of thier name to greet them
-window.alert("Hello " + FirstChar.toUpperCase() + RestOfName + "!");
+window.alert("Hello " + firstChar.toUpperCase() + restOfName.toLowerCase() + "!");
