@@ -1,0 +1,73 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #DADDFC;
+  font-family: 'marcellus', 'Merriweather', 'serif';
+  color: #2E4C6D;
+  text-align: center;
+  align-content: center;
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+  padding-top: 1rem;
+}
+
+h1 {
+  color:#FC997C;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-signin .checkbox {
+  font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.top {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.middle {
+    border-radius: 0;
+    margin-bottom: -1px;
+}
+
+.bottom {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.btn {
+  background: #396EB0;
+  border-radius: 8px;
+  font-family: 'georgia';
+  color: #FC997C;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #2E4C6D;
+  color: #F21170;
+  text-decoration: none;
+}
